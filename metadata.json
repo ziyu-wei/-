@@ -1,0 +1,5 @@
+{
+  "name": "情绪之镜 (Mirror of Emotions)",
+  "description": "Desktop robot interaction demo with camera, robot state, and inner thoughts.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
